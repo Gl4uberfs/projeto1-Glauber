@@ -1,3 +1,5 @@
+"""Relogio com Python"""
+
 import tkinter
 from time import strftime
  
